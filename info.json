@@ -1,9 +1,10 @@
 {"distances":[
     {"name":"meters","value":1},
-    {"name":"centimetres","value":0.001},
+    {"name":"centimetres","value":0.01},
     {"name":"kilometre","value":1000},
     {"name":"inches","value":0.0254},
     {"name":"feet","value":0.3048},
-    {"name":"miles","value":1609.344}
+    {"name":"miles","value":1609.344},
+    {"name":"mykhaylik", "value":1.82}
 ]
 }
